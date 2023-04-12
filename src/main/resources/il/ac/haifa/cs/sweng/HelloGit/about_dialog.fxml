@@ -10,6 +10,7 @@
          <Font size="21.0" />
       </font>
    </Label>
+   <Label text="it's Becky Amara" />
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
 
