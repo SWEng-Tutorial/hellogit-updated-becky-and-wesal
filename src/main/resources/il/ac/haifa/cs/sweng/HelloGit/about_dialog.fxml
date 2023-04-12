@@ -5,7 +5,7 @@
 <?import javafx.scene.text.Font?>
 
 <VBox xmlns="http://javafx.com/javafx/19">
-   <Label contentDisplay="TOP" prefHeight="62.0" prefWidth="525.0" text="My name is Wesal">
+   <Label contentDisplay="TOP" prefHeight="62.0" prefWidth="525.0" text="My name is Wesal Amasha">
       <font>
          <Font size="21.0" />
       </font>
